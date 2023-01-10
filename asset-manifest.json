@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OliverAtondo/codigosReact.git/static/css/main.b9c300ae.css",
+    "main.js": "/OliverAtondo/codigosReact.git/static/js/main.8a574679.js",
+    "static/js/787.1309e94e.chunk.js": "/OliverAtondo/codigosReact.git/static/js/787.1309e94e.chunk.js",
+    "index.html": "/OliverAtondo/codigosReact.git/index.html",
+    "main.b9c300ae.css.map": "/OliverAtondo/codigosReact.git/static/css/main.b9c300ae.css.map",
+    "main.8a574679.js.map": "/OliverAtondo/codigosReact.git/static/js/main.8a574679.js.map",
+    "787.1309e94e.chunk.js.map": "/OliverAtondo/codigosReact.git/static/js/787.1309e94e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9c300ae.css",
+    "static/js/main.8a574679.js"
+  ]
+}
